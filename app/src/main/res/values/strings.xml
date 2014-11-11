@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Internacional</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Configuración</string>
     <string name="otro_hecho">Mostrar otro hecho curioso</string>
     <string name="hecho_curioso">Las hormigas se estiran cuando se despiertan por la mañana</string>
     <string name="sabias_que">¿Sabías que...?</string>
