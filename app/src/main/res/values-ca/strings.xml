@@ -4,18 +4,18 @@
     <string name="app_name">International</string>
     <string name="action_settings">Configuració</string>
     <string name="otro_hecho">Mostra altre fet curiós</string>
-    <string name="hecho_curioso">Les formigues s'estiren quan es desperten al matí</string>
+    <string name="hecho_curioso">Les formigues s\u00b4estiren quan es desperten al matí</string>
     <string name="sabias_que">Sabies que ...?</string>
     <string name="hecho_1">Els 10 treballs més demandats en 2010 no existien el 2004?</string>
-    <string name="hecho_2">Les estruços poden córrer més ràpid que els cavalls.</string>
-    <string name="hecho_3">Les medalles d'or dels Jocs Olímpics estan fetes de plata.</string>
-    <string name="hecho_4">Vas néixer amb 300 ossos, però en l'edat adulta tindràs només 206.</string>
+    <string name="hecho_2">Les estru\u00e7os poden córrer més r\u00e0pid que els cavalls.</string>
+    <string name="hecho_3">Les medalles d\u00b4or dels Jocs Olímpics estan fetes de plata.</string>
+    <string name="hecho_4">Vas néixer amb 300 ossos, però en l\u00b4edat adulta tindr\u00e0s només 206.</string>
     <string name="hecho_5">Presa uns 8 minuts a arribar la llum del sol a la terra.</string>
     <string name="hecho_6">Algunes plantes de bambú poden créixer fins a un metre al dia.</string>
-    <string name="hecho_7">L'estat de Florida és més gran que Anglaterra.</string>
-    <string name="hecho_8">Alguns pingüins poden saltar de 2 a 3 metres per sobre de l'aigua</string>
-    <string name="hecho_9">De mitjana es triga 66 dies a prendre un nou hàbit.</string>
-    <string name="hecho_10">Els mamuts seguien caminant sobre la terra en l'època en què es van construir les grans piràmides.</string>
+    <string name="hecho_7">L\u00b4estat de Florida és més gran que Anglaterra.</string>
+    <string name="hecho_8">Alguns ping\u00fcins poden saltar de 2 a 3 metres per sobre de l\u00b4aigua</string>
+    <string name="hecho_9">De mitjana es triga 66 dies a prendre un nou h\u00e0bit.</string>
+    <string name="hecho_10">Els mamuts seguien caminant sobre la terra en l\u00b4època en què es van construir les grans pir\u00e0mides.</string>
     <string name="hecho_11">El llac més profund del món es diu Baikal</string>
 
 </resources>
